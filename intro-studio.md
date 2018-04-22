@@ -2,7 +2,11 @@
 
 ## INT. STUDIO - DAY
 
+
+
 Seated behind the a makeshift table with a backdrop behind it and looking straight into camera, a YOUNG WOMAN in a sleeveless dress is talking to us.
+
+
 
 **YOUNG WOMAN**
 

@@ -2,7 +2,11 @@
 
 ## INT. KITCHEN - DAY
 
+
+
 Sitting behind a table and looking straight into camera with the exact same framing and distance as the previous scene, a middle-aged WOMAN with undulated hair with golden streaks in it is talking to us. 
+
+
 
 **WOMAN**
 
@@ -19,6 +23,8 @@ Here's the starter. Just look at the claws! And here's the salmon sashimi - deli
 
 
 The woman collects all of the prints into a neat stack again, looking down absentmindedly at the table.
+
+
 
 **WOMAN**
 

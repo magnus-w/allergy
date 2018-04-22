@@ -2,7 +2,11 @@
 
 ## INT. CONFERENCE ROOM - DAY
 
+
+
 Sitting behind the conference table and looking straight into camera with the exact same framing and distance as the previous scene, a MAN in a grey suit is talking rapidly to us.
+
+
 
 **MAN**
 
