@@ -1,2 +1,2 @@
-# Act 1
+# Act I - Exposition
 
