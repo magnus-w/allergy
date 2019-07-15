@@ -14,7 +14,6 @@ Well, obviously I'm doing a lot of exercise, getting a real nice toning to my up
 
 \(looks up into the ceiling\)
 
-...Yeah...
+...Yeah...yeah...
 
 CUT TO:
-
