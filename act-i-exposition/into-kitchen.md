@@ -1,10 +1,8 @@
-# Intro - Kitchen
+# Into - Kitchen
 
 ## INT. KITCHEN - DAY
 
-
-
-Sitting behind a table and looking straight into camera with the exact same framing and distance as the previous scene, a middle-aged WOMAN with undulated hair with golden streaks in it is talking to us. 
+Sitting behind a table and looking straight into camera with the exact same framing and distance as the previous scene, a middle-aged WOMAN with undulated hair with golden streaks in it is talking to us.
 
 
 

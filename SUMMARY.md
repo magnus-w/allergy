@@ -1,20 +1,16 @@
 # Table of contents
 
-* [Act I - Exposition](README.md)
-* [Intro - Studio](intro-studio.md)
-* [Intro - Conference Room](intro-conference-room.md)
-* [Intro - Kitchen](intro-kitchen.md)
-* [Coffee Shop - Anna](coffee-shop-anna.md)
+* [Allergy Script](README.md)
+* [Intro](intro-studio.md)
 
-## ACT 2
-
-* [More Signs](act-2/untitled.md)
-
-## ACT I - Exposition
+## ACT 1 - Exposition <a id="act-i-exposition"></a>
 
 * [Intro - Studio](act-i-exposition/intro-studio.md)
+* [Intro - Conference Room](act-i-exposition/intro-conference-room.md)
+* [Into - Kitchen](act-i-exposition/into-kitchen.md)
+* [Coffee Shop - Anna](act-i-exposition/coffee-shop-anna.md)
 
-## ACT II - Rising action and complication
+## ACT 2 - Rising action and complication <a id="act-ii-rising-action-and-complication"></a>
 
-* [Untitled](act-ii-rising-action-and-complication/untitled.md)
+* [More Signs](act-ii-rising-action-and-complication/untitled.md)
 

@@ -2,8 +2,6 @@
 
 ## INT. COFFEE SHOP - DAY
 
-
-
 A layer of reflections with rays of light cutting through them, as if we were looking in through several layers of window pane. 
 
 In a pool of light where one of the rays land, a ceramic coffee cup is sitting on a table, steam rising, curling up in the light. 
